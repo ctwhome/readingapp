@@ -1,8 +1,10 @@
 @import './scrollbar-color.css';
+@import './book.css';
 
 :root {
   --text: #212121;
   --bg: #e5e5e5;
+  --blue: #0005FF
 }
 
 * {

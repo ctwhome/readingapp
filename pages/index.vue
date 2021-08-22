@@ -1,12 +1,12 @@
 <template>
   <div class="container mx-auto">
-    <tutorial class="mt-20" />
-    <blog-list :posts="posts" :more="true" />
+    <reader />
   </div>
 </template>
 
 <script>
 export default {
+  layout: 'reader',
   async asyncData ({ $content, params }) {
     // blog list
     const posts = await $content('posts')
