@@ -2,6 +2,10 @@
 
 ![cd](https://github.com/ctwhome/nuxt/actions/workflows/cd.yml/badge.svg)
 
+### Current Status
+
+![](https://user-images.githubusercontent.com/4195550/130356318-6d5da8b9-b067-4d51-a4c8-4faf30405555.png)
+
 ### Objective
 
 Create a web-based application that format the text in columns to allow speed reading motivating eye fixation ([see article](https://www.dummies.com/education/language-arts/speed-reading/the-importance-of-eye-fixations-to-speed-reading/#:~:text=A%20major%20component%20of%20speed,more%20words%20with%20each%20fixation.))
@@ -150,6 +154,7 @@ From the book:  
 
 *   Nuxt
 *   TailwindCss
+*   Epubjs
 
 ### Build Setup
 
