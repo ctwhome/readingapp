@@ -1,4 +1,4 @@
-# Nuxt start template
+# Speed Reading ePub Application
 
 ![cd](https://github.com/ctwhome/nuxt/actions/workflows/cd.yml/badge.svg)
 
@@ -10,12 +10,14 @@ Create a web-based application that format the text in columns to allow speed re
 
 The column format when reading, you can imagine reading a book like a Newspaper, allows widening your field of vision, helps you to read much faster, you can choose a fixation point to read chunks of words at the same time. Reading in columns helps to read one sentence at a time with a glance.
 
-From the book:  
- 
+From the book:  
 
 ![image](https://user-images.githubusercontent.com/4195550/130348434-a3f56a62-5f0f-45df-b12c-474b75d511da.png)
 
-https://www.dummies.com/education/language-arts/speed-reading/the-importance-of-eye-fixations-to-speed-reading/
+### Technology
+
+*   Nuxt
+*   TailwindCss
 
 ### Build Setup
 
